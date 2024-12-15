@@ -1,5 +1,6 @@
 .breadcrumb {
     text-align: left;
+    display: inline;
   }
   .breadcrumb li {
     float: left;
